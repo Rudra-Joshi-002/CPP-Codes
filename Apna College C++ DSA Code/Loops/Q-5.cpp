@@ -1,6 +1,6 @@
 /*Question 5 : For a positive N , WAP that prints the first N Fibonacci numbers.
 (Assume N >= 2)
-Fibonacci series : 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 ….
+Fibonacci series : 0, 1, 1, 2, 3, 5, 8, 13, 21, 34 â€¦.
 This is a series where each number is a sum of previous 2 numbers in the series.
 
 Eg : 1 = 0 + 1,
@@ -45,5 +45,7 @@ int main()
 
         val=temp;
     }
+
+    return 0;
 
 }
