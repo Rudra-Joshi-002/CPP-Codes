@@ -40,4 +40,6 @@ int main()
 
         is_prime=true;
     }
+
+    return 0;
 }
